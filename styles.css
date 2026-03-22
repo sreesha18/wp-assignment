@@ -1,0 +1,14 @@
+body {
+    font-family: Arial;
+}
+nav {
+    background: black;
+    padding: 10px;
+}
+nav a {
+    color: white;
+    margin: 10px;
+}
+nav a:hover {
+    color: yellow;
+}
